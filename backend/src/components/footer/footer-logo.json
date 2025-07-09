@@ -1,0 +1,23 @@
+{
+  "collectionName": "components_footer_footer_logos",
+  "info": {
+    "displayName": "footer-logo"
+  },
+  "options": {},
+  "attributes": {
+    "altText": {
+      "type": "string"
+    },
+    "logoImg": {
+      "type": "media",
+      "multiple": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    }
+  },
+  "config": {}
+}
